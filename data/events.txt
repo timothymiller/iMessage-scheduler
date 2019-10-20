@@ -1,0 +1,5 @@
+12-25,Merry Christmas! 🎄,morning,associate
+10-31,Happy Halloween! 🎃,morning,associate
+01-01,Happy New Year! 🧨,midnight, associate
+06-04,Happy 4th of July! 🧨🎆🎇,morning, associate
+11-11,Happy Veterans Day!, morning, associate
