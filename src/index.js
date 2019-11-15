@@ -75,7 +75,7 @@ const convertTZ = (date, contactTimeZone) => {
     return localEventTime;
 }
 
-const main = function() {
+const main = () => {
 
     registerReceiver();
 
