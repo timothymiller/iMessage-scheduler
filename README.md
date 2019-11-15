@@ -53,3 +53,17 @@ React frontend for scheduling messages from a web browser.
 This open source project is an independent project and has not been authorized, sponsored, or otherwise approved by Apple Inc.
 
 iMessage, iOS, Mac, El Capitan, and Apple are registered trademarks of Apple Inc.
+
+## License 
+
+This Template is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
+
+## Author
+
+Timothy Miller
+
+* GitHub: [https://github.com/timothymiller](https://github.com/timothymiller) :bulb:
+
+* Website: [https://timknowsbest.com](https://timknowsbest.com) :computer:
+
+* Donation: [https://timknowsbest.com/donate](https://timknowsbest.com/donate) :money_with_wings:
